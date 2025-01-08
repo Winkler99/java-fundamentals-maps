@@ -108,7 +108,6 @@ public class Exercise extends ExerciseBase {
             if(map.containsKey(numbers.get(i))) {
                 list.add(map.get(numbers.get(i)));
             }
-
         }
 
 
